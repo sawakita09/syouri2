@@ -1,0 +1,25 @@
+# 無視するディレクトリとファイル
+AppData/
+Desktop/
+Documents/
+Downloads/
+Dropbox/
+Favorites/
+IntelGraphicsProfiles/
+JPKI/
+Links/
+MicrosoftEdgeBackups/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+
+# システム関連ファイル
+NTUSER.DAT
+NTUSER.DAT{*.TxR*.regtrans-ms}
+NTUSER.DAT{*.TM*.regtrans-ms}
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
